@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Owenn Gimli
-- 👀 I’m interested in Data Science and Data Analytics
+- 👀 I’m interested in Data Science and Data Analytics + Web Development!
 - 🌱 I’m currently learning Machine Learning and AI with Python
 - 📫 You can email me at owenn2106@icloud.com or WhatsApp at +62-811-453-8300
 
