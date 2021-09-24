@@ -8,8 +8,8 @@
 
 <h3>Connect with me through:</h3>
 <ul>
-    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="50" width="50" align="center"><a href="https://www.linkedin.com/in/owenn-gimli-8567b1196/">LinkedIn</a></li>
-    <li><img src="https://syncpenguin.com/company_images/icloud.png" height="50" width="50" align="center"><strong>owenn2106@icloud.com</strong></li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="30" width="30" align="center"><a href="https://www.linkedin.com/in/owenn-gimli-8567b1196/">LinkedIn</a></li>
+    <li><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/icloud-logo.png" height="30" width="30" align="center"><strong>owenn2106@icloud.com</strong></li>
 </ul>
 
 <h3>Web Dev Stack I Use</h3>
