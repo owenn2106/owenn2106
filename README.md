@@ -12,6 +12,6 @@
 
 <h3>Web Dev Stack I Use</h3>
 <ul>
-    <li><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" height="30" width="30"></li>
+    <li><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" height="30" width="30" align="center"></li>
 </ul>
 
