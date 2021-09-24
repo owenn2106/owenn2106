@@ -26,9 +26,8 @@
 <h3>Data Science Tools I Use</h3>
 <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="50" width="50" align="center">
-    <img src="https://cdn.shortpixel.ai/spai/w_300+q_lossy+ret_img+to_webp/https://www.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" height="50" width="50" align="center">
+    <img src="https://miro.medium.com/max/1200/1*rFW4kjSDfM_SFYe0wghe4Q.png" height="50" width="50" align="center">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="50" width="50" align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" height="50" width="50" align="center">
 </div>
 
 
