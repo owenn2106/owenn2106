@@ -14,5 +14,6 @@
 <div>
     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" height="50" width="50" align="center">
     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="50" width="50" align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="50" width="50" align="center" padding-left="100">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="50"       width="50" align="center" padding-left="100">
+    <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" height="50" width="50"       align="center">
 </div>
