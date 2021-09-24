@@ -1,6 +1,8 @@
 <h1>Hi there!</h1>
 
-<p>I'm Owenn Gimli, a passionate self-taught web developer and data scientist. You might wonder why I chose to learn web development with data science right? Besides being able to make amazing mathematical useful models, I love deploying them into creative, beautiful-looking & interactive web apps.</p>
+<p>My name is Owenn Gimli, currently a Mathematics student at Universitas Prasetiya Mulya BSD Indonesia and a DS/SE at Supertype.ai, creating amazing products</p>
+
+<p>I'm a passionate self-taught web developer and data scientist. You might wonder why I chose to learn web development with data science right? Besides being able to make amazing mathematical useful models, I love deploying them into creative, beautiful-looking & interactive web apps.</p>
 
 <p>I love sharing ideas and work with amazing talented people! So do contact me for collaborations or even for a chat! P.s. I don't bite 😂</p>
 
