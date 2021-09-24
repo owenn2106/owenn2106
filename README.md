@@ -10,7 +10,7 @@
 <ul>
     <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="30" width="30" align="center"><a href="https://www.linkedin.com/in/owenn-gimli-8567b1196/">          LinkedIn</a></li>
     <li><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/icloud-logo.png" height="30" width="30" align="center"><strong>          owenn2106@icloud.com</strong></li>
-    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="30" width="30" align="center"><strong>          gimlitangster</strong></li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="30" width="30" align="center"><strong>          <a href="https://www.instagram.com/gimli_tangster/">gimlitangster</a></strong></li>
 </ul>
 
 <h3>Web Dev Stack I Use</h3>
@@ -22,4 +22,14 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAol6ee04wbzdltVJBsnm_1TGwpQYidVFwvw&usqp=CAU" height="50" width="50" align="center">
     <img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg" height="50" width="50" align="center">
 </div>
+
+<h3>Data Science Tools I Use</h3>
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="50" width="50" align="center">
+    <img src="https://cdn.shortpixel.ai/spai/w_300+q_lossy+ret_img+to_webp/https://www.numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" height="50" width="50" align="center">
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="50" width="50" align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" height="50" width="50" align="center">
+</div>
+
+
 
