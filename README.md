@@ -1,6 +1,6 @@
 <h1>Hi there!</h1>
 
-<p>My name is Owenn Gimli, currently a Mathematics student at Universitas Prasetiya Mulya BSD Indonesia and a DS/SE at Supertype.ai, creating amazing products.</p>
+<p>My name is Owenn Gimli, currently a Mathematics student at Universitas Prasetiya Mulya BSD Indonesia, focusing on Data Science and Web Development works.</p>
 
 <p>I'm a passionate self-taught web developer and data scientist. You might wonder why I chose to learn web development with data science right? Besides being able to make amazing mathematical useful models, I love deploying them into creative, beautiful-looking & interactive web apps.</p>
 
