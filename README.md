@@ -11,7 +11,7 @@
 <h2>Connect with me through:</h2>
 <ul>
     <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="30" width="30" align="center"><a href="https://www.linkedin.com/in/owenn-gimli-8567b1196/">          <strong>LinkedIn</strong></a></li>
-    <li><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/icloud-logo.png" height="30" width="30" align="center"><strong>          owenn2106@icloud.com</strong></li>
+    <li><img src="https://w7.pngwing.com/pngs/249/944/png-transparent-icloud-email-iphone-apple-email-miscellaneous-blue-heart.png" height="30" width="30" align="center"><strong>          owenn2106@icloud.com</strong></li>
     <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="30" width="30" align="center"><strong>          <a href="https://www.instagram.com/gimli_tangster/">gimlitangster</a></strong></li>
 </ul>
 
