@@ -1,12 +1,12 @@
 <h1>Hi there!</h1>
 
-<p>My name is Owenn Gimli, currently a Mathematics student at Universitas Prasetiya Mulya BSD Indonesia, focusing on Data Science and Web Development works.</p>
+<p>My name is Owenn Gimli, currently an Applied Mathematics student at Universitas Prasetiya Mulya BSD Indonesia. I'm currently focused on Web Development work with some experience in Data Science as well.</p>
 
-<p>I'm a passionate self-taught web developer and data scientist. You might wonder why I chose to learn web development with data science right? Besides being able to make amazing mathematical useful models, I love deploying them into creative, beautiful-looking & interactive web apps.</p>
+<p>I'm a passionate self-taught coder who love to learn new tech as well as share my knowledge with others. I love working with people and gain knowledge from the best.</p>
 
-<p>I love sharing ideas and work with amazing talented people! So do contact me for collaborations or even for a chat! P.s. I don't bite 😂</p>
+<p>Contact me for collaborations or even for a chat!😂</p>
 
-<p>Do visit my personal website at <a href="https://owenngimli.com">owenngimli.com</a></p>
+<p>Do visit my personal website at <a href="https://owenn2106.github.io">owenn2106.github.io</a> (it's not updated to the latest, new web portfolio is coming soon!)</p>
 
 <h2>Connect with me through:</h2>
 <ul>
