@@ -12,7 +12,7 @@
 <ul>
     <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="30" width="30" align="center"><a href="https://www.linkedin.com/in/owenn-gimli-8567b1196/">          <strong>LinkedIn</strong></a></li>
     <li><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" height="30" width="30" align="center"><strong>          owenn2106@gmail.com</strong></li>
-    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="30" width="30" align="center"><strong>          <a href="https://www.instagram.com/gimli_tangster/">owenngimli</a></strong></li>
+    <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="30" width="30" align="center"><strong>          <a href="https://www.instagram.com/owenngimli/">owenngimli</a></strong></li>
 </ul>
 
 <h2>Web Dev Stack I Use</h2>
