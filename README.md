@@ -1,6 +1,6 @@
 <h1>Hi there!</h1>
 
-<p>My name is Owenn Gimli, currently an Applied Mathematics student at Universitas Prasetiya Mulya BSD Indonesia. I'm currently focused on Web Development work with some experience in Data Science as well.</p>
+<p>My name is Owenn Gimli, bachelor degree in Applied Mathematics. I'm a programmer with focus on frontend development, while having some knowledge on backend development as well.</p>
 
 <p>I'm a passionate self-taught coder who love to learn new tech as well as share my knowledge with others. I love working with people and gain knowledge from the best.</p>
 
