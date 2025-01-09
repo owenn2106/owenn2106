@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a React Developer Lead at Stockifi and a Frontend Developer at JEL.<br>I have always been intrigued with frontend development, especially those websites / web apps that are created with beautiful animations.<br>I'm currently learning NextJS, GSAP and other libraries that might help me with improving my frontend skills.<br><br>Fun fact: I use VIM 😎
+Currently a React Developer Lead at Stockifi.io.<br>Always been a passionate software developer, focusing more on Frontend development, but always open to working as Fullstack dev. I always aim to build products that are up to standard and most importantly beautiful with great user experience. Always open to collab or freelance work, or even a chat!
 
 
 ## 🌐 Socials:
